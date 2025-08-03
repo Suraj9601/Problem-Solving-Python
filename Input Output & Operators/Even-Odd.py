@@ -1,7 +1,6 @@
 a = int(input("Enter the first number : "))
-b = int(input("Enter the second number : "))
 
-if a > b:
-    print(a,"is greater than",b)
+if a % 2 == 0:
+    print("Entered number is Even.")
 else:
-    print(b,"is greater than",a)
+    print("Entered number is Odd.")
