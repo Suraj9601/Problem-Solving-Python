@@ -4,8 +4,8 @@ num = int(input("Enter a number: "))
 product = 1
 
 while num > 0:
-    digit = num % 10      # last digit nikalo
-    product *= digit      # product me multiply karo
-    num = num // 10       # last digit hatao
+    digit = num % 10
+    product *= digit
+    num = num // 10
 
 print("Multiplication of all digits:", product)
