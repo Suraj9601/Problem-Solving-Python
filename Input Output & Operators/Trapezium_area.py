@@ -1,0 +1,1 @@
+# 65. Find area of a trapezium. Area= 1/2 ​×(a+b)×h
