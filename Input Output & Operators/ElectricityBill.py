@@ -4,4 +4,4 @@ rate = float(input("Enter the rate for unit : "))
 bill = units * rate
 print("Total units : ", units)
 print("Rate : ", rate)
-print("Total Electricity Bill : ", bill)
+print(f"Total Electricity Bill : {bill} Rs")
